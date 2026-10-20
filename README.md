@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:090E1A,45:31205E,100:8B5CF6&text=ABDELRAHMAN%20TOHAMY&fontColor=FFFFFF&fontSize=39&fontAlignY=38&desc=CTO%20%7C%20Software%20Architect%20%7C%20Backend%20Engineer&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Abdelrahman Tohamy banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:090E1A,45:31205E,100:8B5CF6&text=ABDELRAHMAN%20TOHAMY&fontColor=FFFFFF&fontSize=39&fontAlignY=38&desc=CTO%20%7C%20Software%20Architect%20%7C%20Backend%20Engineer&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Abdulrahman Tohamy banner" />
 
 <a href="https://github.com/Th3tohamy"><img src="https://img.shields.io/badge/GitHub-Th3tohamy-151B2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <img src="https://komarev.com/ghpvc/?username=Th3tohamy&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
