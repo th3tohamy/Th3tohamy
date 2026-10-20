@@ -13,7 +13,7 @@
 
 ## `01 / The engineer behind the architecture`
 
-I'm **Abdelrahman Tohamy**, an Egypt-based **CTO, technical lead, and Python backend engineer**. My work spans hands-on backend development, technical architecture, integration design, production reliability, and engineering delivery.
+I'm **Abdulrahman Tohamy**, an Egypt-based **CTO, technical lead, and Python backend engineer**. My work spans hands-on backend development, technical architecture, integration design, production reliability, and engineering delivery.
 
 I care about systems that are **secure by design**, **operationally observable**, and **maintainable as teams and businesses scale**. I enjoy turning complicated workflows into straightforward, dependable products.
 
